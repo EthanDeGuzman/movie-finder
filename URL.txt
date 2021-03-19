@@ -1,0 +1,2 @@
+Github Link: https://github.com/EthanDeguzman/movie-finder
+Firebase Host: https://mymoviefinder-3c649.web.app/
